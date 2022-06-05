@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d7da34c1.css",
-    "main.js": "/static/js/main.0fd37d67.js",
+    "main.js": "/static/js/main.946ac83a.js",
     "static/media/video2.mp4": "/static/media/video2.af6f522ad12328415776.mp4",
     "static/media/video.mp4": "/static/media/video.4964a641b25ca738ed76.mp4",
     "static/media/zheltoe-pole.jpg": "/static/media/zheltoe-pole.510de169be805f8d1289.jpg",
@@ -37,10 +37,10 @@
     "static/media/power.svg": "/static/media/power.164a566fbac2830e2005f698b55219dc.svg",
     "static/media/resistor-svgrepo-com.svg": "/static/media/resistor-svgrepo-com.3f32ae76450d047b541cfcbc362d3b17.svg",
     "main.d7da34c1.css.map": "/static/css/main.d7da34c1.css.map",
-    "main.0fd37d67.js.map": "/static/js/main.0fd37d67.js.map"
+    "main.946ac83a.js.map": "/static/js/main.946ac83a.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.0fd37d67.js"
+    "static/js/main.946ac83a.js"
   ]
 }
